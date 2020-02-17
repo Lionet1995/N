@@ -1,0 +1,22 @@
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.exe
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.deps.json
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.runtimeconfig.json
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.runtimeconfig.dev.json
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.dll
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.pdb
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.AssemblyInfoInputs.cache
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.AssemblyInfo.cs
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.dll
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.pdb
+C:\Users\Анастасия\source\repos\HomeworkArrayList\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.csprojAssemblyReference.cache
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.exe
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.deps.json
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.runtimeconfig.json
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.runtimeconfig.dev.json
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.dll
+D:\списки для защиты почти готовые\HomeworkArrayList\bin\Debug\netcoreapp3.1\HomeworkArrayList.pdb
+D:\списки для защиты почти готовые\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.csprojAssemblyReference.cache
+D:\списки для защиты почти готовые\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.AssemblyInfoInputs.cache
+D:\списки для защиты почти готовые\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.AssemblyInfo.cs
+D:\списки для защиты почти готовые\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.dll
+D:\списки для защиты почти готовые\HomeworkArrayList\obj\Debug\netcoreapp3.1\HomeworkArrayList.pdb
