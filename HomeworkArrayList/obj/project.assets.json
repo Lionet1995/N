@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\списки для защиты почти готовые\\HomeworkArrayList\\HomeworkArrayList.csproj",
+      "projectUniqueName": "C:\\Users\\Анастасия\\Desktop\\main kraken\\N\\HomeworkArrayList\\HomeworkArrayList.csproj",
       "projectName": "HomeworkArrayList",
-      "projectPath": "D:\\списки для защиты почти готовые\\HomeworkArrayList\\HomeworkArrayList.csproj",
+      "projectPath": "C:\\Users\\Анастасия\\Desktop\\main kraken\\N\\HomeworkArrayList\\HomeworkArrayList.csproj",
       "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-      "outputPath": "D:\\списки для защиты почти готовые\\HomeworkArrayList\\obj\\",
+      "outputPath": "C:\\Users\\Анастасия\\Desktop\\main kraken\\N\\HomeworkArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config",

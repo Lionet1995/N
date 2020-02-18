@@ -1,8 +1,4 @@
 ﻿using NUnit.Framework;
-using System.Collections;
-using System;
-using System.Text;
-using System.Linq;
 using LinkedList1;
 
 namespace LinkedList1.Tests
